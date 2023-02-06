@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **principles and architecture**
 
-- 📝 I regularly write articles on [https://medium.com/@cesarciello17](https://medium.com/@cesarciello17)
+- 📝 I regularly write articles on [https://medium.com/@cesarciello15](https://medium.com/@cesarciello15)
 
 - 💬 Ask me about **Angular and nodejs**
 
